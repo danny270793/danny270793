@@ -43,7 +43,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
     <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
 </a>
 <a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
-    <img src="https://ih1.redbubble.net/image.4806407217.7609/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="aws" width="150"/>
+    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
 </a>
 
 ## Technology stack
