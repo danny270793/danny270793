@@ -108,10 +108,8 @@ My previous experience allows me to understand and anticipate challenges, as wel
 
 ## My github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake&theme=default#gh-light-mode-only)
-![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=dark#gh-dark-mode-only)
-![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=default#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=dark)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danny270793&theme=github-compact)
 
 ## Follow me
