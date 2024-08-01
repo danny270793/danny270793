@@ -52,11 +52,13 @@ My previous experience allows me to understand and anticipate challenges, as wel
 </a>
 
 **IOT**
+
 <a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
 </a>
 
 **Big Data**
+
 <a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
     <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
 </a>
