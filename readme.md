@@ -4,65 +4,6 @@ Senior Full Stack Developer with almost 10 years of experience implementing solu
 I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform, Java, Python, UiPath that guarantee my knowledge
 My previous experience allows me to understand and anticipate challenges, as well as propose solutions that add value to the business and ensure return on investment.
 
-## Certifications
-
-**Development**
-
-<a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
-    <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/3e9780b1-9544-4b8c-834a-87be9e84d24f/public_url" target="_blank">
-    <img src="https://images.credly.com/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" alt="python" width="150"/>
-</a>
-<a href="https://www.apollographql.com/tutorials/certifications/ec329965-9334-4384-a5f7-cb348464c6f9" target="_blank">
-    <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
-</a>
-
-**Deployment**
-
-<a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
-    <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/c019816c-4e12-49db-8d7a-82db968e9699/public_url" target="_blank">
-    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="kubernetes administrator" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
-    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
-</a>
-
-**Cloud**
-
-<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
-    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/690852a9-8892-4d41-985c-fa9c42e61516/public_url" target="_blank">
-    <img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="azure" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws" width="150"/>
-</a>
-
-**Automation**
-
-<a href="https://academy.uipath.com/certification" target="_blank">
-    <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="aws" width="150"/>
-</a>
-
-**IOT**
-
-<a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
-</a>
-
-**Big Data**
-
-<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
-    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
-</a>
-
 ## Technology stack
 
 **Mobile development**
@@ -125,6 +66,65 @@ My previous experience allows me to understand and anticipate challenges, as wel
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+## Certifications
+
+**Development**
+
+<a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
+    <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/3e9780b1-9544-4b8c-834a-87be9e84d24f/public_url" target="_blank">
+    <img src="https://images.credly.com/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" alt="python" width="150"/>
+</a>
+<a href="https://www.apollographql.com/tutorials/certifications/ec329965-9334-4384-a5f7-cb348464c6f9" target="_blank">
+    <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
+</a>
+
+**Deployment**
+
+<a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
+    <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/c019816c-4e12-49db-8d7a-82db968e9699/public_url" target="_blank">
+    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="kubernetes administrator" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
+    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
+</a>
+
+**Cloud**
+
+<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
+    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/690852a9-8892-4d41-985c-fa9c42e61516/public_url" target="_blank">
+    <img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="azure" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws" width="150"/>
+</a>
+
+**Automation**
+
+<a href="https://academy.uipath.com/certification" target="_blank">
+    <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="aws" width="150"/>
+</a>
+
+**IOT**
+
+<a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
+</a>
+
+**Big Data**
+
+<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
+    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
+</a>
 
 ## My github stats
 
