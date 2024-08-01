@@ -69,8 +69,6 @@ My previous experience allows me to understand and anticipate challenges, as wel
 
 ## Certifications
 
-**Development**
-
 <a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
     <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
 </a>
@@ -80,9 +78,6 @@ My previous experience allows me to understand and anticipate challenges, as wel
 <a href="https://www.apollographql.com/tutorials/certifications/ec329965-9334-4384-a5f7-cb348464c6f9" target="_blank">
     <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
 </a>
-
-**Deployment**
-
 <a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
     <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
 </a>
@@ -92,9 +87,6 @@ My previous experience allows me to understand and anticipate challenges, as wel
 <a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
     <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
 </a>
-
-**Cloud**
-
 <a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
     <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
 </a>
@@ -107,21 +99,12 @@ My previous experience allows me to understand and anticipate challenges, as wel
 <a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws" width="150"/>
 </a>
-
-**Automation**
-
 <a href="https://academy.uipath.com/certification" target="_blank">
     <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="aws" width="150"/>
 </a>
-
-**IOT**
-
 <a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
 </a>
-
-**Big Data**
-
 <a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
     <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
 </a>
