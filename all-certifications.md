@@ -17,6 +17,12 @@
 <a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws" width="150"/>
 </a>
+<a href="https://www.credly.com/badges/690852a9-8892-4d41-985c-fa9c42e61516/public_url" target="_blank">
+    <img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="azure" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/4cb7a802-a3c8-4c76-aea0-7f67d9338092/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="azure" width="150"/>
+</a>
 
 **Deployment**
 
@@ -64,12 +70,6 @@ AWS
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/B30FF7171DB974DE?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="devops" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/690852a9-8892-4d41-985c-fa9c42e61516/public_url" target="_blank">
-    <img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="azure" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/4cb7a802-a3c8-4c76-aea0-7f67d9338092/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="azure" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/4cb7a802-a3c8-4c76-aea0-7f67d9338092/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="azure" width="150"/>
