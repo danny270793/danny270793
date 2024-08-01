@@ -1,7 +1,28 @@
 # All certifications
 
+**Data**
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/1A7FBCA0D918570C?sharingId=F7A505D7CE635680" target="_blank">
+    <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="data engineer" width="150"/>
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/46F92540CBDEC94B?sharingId=F7A505D7CE635680" target="_blank">
+    <img src="https://images.credly.com/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/twitter_thumb_201604_azure-database-administrator-associate-600x600.png" alt="data engineer" width="150"/>
+</a>
+<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
+    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
+</a>
+
+**Cloud**
+
+<a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws" width="150"/>
+</a>
+
 **Deployment**
 
+<a href="https://www.apollographql.com/tutorials/certifications/ec329965-9334-4384-a5f7-cb348464c6f9" target="_blank">
+    <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
     <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
 </a>
@@ -38,18 +59,6 @@ AWS
 
 <br>
 
-<a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws" width="150"/>
-</a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/1A7FBCA0D918570C?sharingId=F7A505D7CE635680" target="_blank">
-    <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="data engineer" width="150"/>
-</a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/46F92540CBDEC94B?sharingId=F7A505D7CE635680" target="_blank">
-    <img src="https://images.credly.com/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/twitter_thumb_201604_azure-database-administrator-associate-600x600.png" alt="data engineer" width="150"/>
-</a>
-<a href="https://www.apollographql.com/tutorials/certifications/ec329965-9334-4384-a5f7-cb348464c6f9" target="_blank">
-    <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
-</a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/5B1959ECD5407C03?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" alt="aws" width="150"/>
 </a>
@@ -92,15 +101,9 @@ AWS
 <a href="https://www.credly.com/badges/af2cbe11-7a70-49cd-8bf0-d76ef26bd65f/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="power bi" width="150"/>
 </a>
-<!--
-ISO
--->
 <a href="https://www.credly.com/badges/a7525a08-aa7f-4417-8456-c5ca6d755dd3/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="power bi" width="150"/>
 </a>
-<!--
-INFORMATICA
--->
 <a href="https://www.credly.com/badges/6a59814c-abd0-4c47-86c3-f1fefaef2abe/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="python" width="150"/>
 </a>
@@ -112,12 +115,6 @@ INFORMATICA
 </a>
 <a href="https://www.credly.com/badges/92c3aeff-9784-4560-9c4b-75804aa6ec78/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="python" width="150"/>
-</a>
-<!--
-MET
--->
-<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
-    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
 </a>
 <a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
