@@ -2,6 +2,9 @@
 
 **Data**
 
+<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
+    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
 </a>
@@ -65,6 +68,9 @@ AWS
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/95FAF1625D78D34A?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/b33f211e-ba94-4cbb-842c-8502c82c191a/image.png" alt="power automate" width="150"/>
 </a>
+<a href="https://www.credly.com/badges/380dc1da-b794-4044-97cd-d408ee1015a6/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="power bi" width="150"/>
+</a>
 <a href="https://academy.uipath.com/certification" target="_blank">
     <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="uipath" width="150"/>
 </a>
@@ -73,21 +79,6 @@ AWS
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/5B1959ECD5407C03?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" alt="aws" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/760a121b-2642-434a-87f9-341fca10192b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/faf174da-88b2-48f3-83a1-f016f97132cc/image.png" alt="azure" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/e9815697-e3f4-4056-8ed1-98d7ca6ee1fd/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="java" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/6658b32c-ddf5-4c52-ac5b-03e7af939a95/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="java" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/380dc1da-b794-4044-97cd-d408ee1015a6/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="power bi" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
-    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/da71971f-7cac-4955-a137-6cbbe44c9437/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/acf378d1-fb66-410c-88f8-9794027a5cfb/UFT-One-Certified-Professional.png" alt="power bi" width="150"/>
@@ -115,4 +106,13 @@ AWS
 </a>
 <a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/760a121b-2642-434a-87f9-341fca10192b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/faf174da-88b2-48f3-83a1-f016f97132cc/image.png" alt="azure" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/e9815697-e3f4-4056-8ed1-98d7ca6ee1fd/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="java" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/6658b32c-ddf5-4c52-ac5b-03e7af939a95/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="java" width="150"/>
 </a>
