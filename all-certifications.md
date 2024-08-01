@@ -48,30 +48,64 @@
 <a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
 </a>
+<a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
+    <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
+</a>
 
-## a
-
+<a href="https://www.credly.com/badges/c019816c-4e12-49db-8d7a-82db968e9699/public_url" target="_blank">
+    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="kubernetes administrator" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/380dc1da-b794-4044-97cd-d408ee1015a6/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="power bi" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
     <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
-    <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
+<a href="https://www.credly.com/badges/da71971f-7cac-4955-a137-6cbbe44c9437/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/acf378d1-fb66-410c-88f8-9794027a5cfb/UFT-One-Certified-Professional.png" alt="power bi" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/7cd68151-60e0-4fcd-b202-25fef4be00af/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0ab77af8-fa46-47d7-bb20-861448f9c499/UFT-One-Tester-Specialist.png" alt="power bi" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/af2cbe11-7a70-49cd-8bf0-d76ef26bd65f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="power bi" width="150"/>
+</a>
+<!--
+ISO
+-->
+<a href="https://www.credly.com/badges/a7525a08-aa7f-4417-8456-c5ca6d755dd3/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="power bi" width="150"/>
+</a>
+<!--
+INFORMATICA
+-->
+<a href="https://www.credly.com/badges/6a59814c-abd0-4c47-86c3-f1fefaef2abe/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="python" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/a2bb5a8d-cfe7-4cc5-bb2d-406780f99279/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png" alt="python" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/470746ff-b66a-4cde-b568-42e344d37e94/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="python" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/92c3aeff-9784-4560-9c4b-75804aa6ec78/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="python" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/3e9780b1-9544-4b8c-834a-87be9e84d24f/public_url" target="_blank">
     <img src="https://images.credly.com/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" alt="python" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
-    <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
+<a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
+    <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/c019816c-4e12-49db-8d7a-82db968e9699/public_url" target="_blank">
-    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="kubernetes administrator" width="150"/>
-</a>
-<a href="https://academy.uipath.com/certification" target="_blank">
-    <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="aws" width="150"/>
+<!--
+MET
+-->
+<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
+    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
 </a>
 <a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
 </a>
-<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
-    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
+<a href="https://academy.uipath.com/certification" target="_blank">
+    <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="aws" width="150"/>
 </a>
