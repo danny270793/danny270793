@@ -90,9 +90,15 @@ AWS
     <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="power bi" width="150"/>
 </a>
 
+**Data Protection**
+
+<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
+    <img src="https://www.onetrust.com/content/dam/onetrust/brand/content/graphic/certification/OT-circle-hero-certification-consent-expert-record-integration-management.png" alt="aws" width="150"/>
+</a>
+
 **IOT**
 
-<a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
+<a href="https://www.onetrust.com/certifications/consent-record-integration-and-management-certification/" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
 </a>
 
