@@ -29,6 +29,9 @@
 <a href="https://www.credly.com/badges/4cb7a802-a3c8-4c76-aea0-7f67d9338092/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="azure" width="150"/>
 </a>
+<a href="https://www.credly.com/badges/470746ff-b66a-4cde-b568-42e344d37e94/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="python" width="150"/>
+</a>
 
 **Deployment**
 
@@ -75,16 +78,22 @@ AWS
     <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="uipath" width="150"/>
 </a>
 
-<br>
+**IOT**
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/5B1959ECD5407C03?sharingId=F7A505D7CE635680" target="_blank">
-    <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" alt="aws" width="150"/>
+<a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
 </a>
+
+**Others**
+
 <a href="https://www.credly.com/badges/da71971f-7cac-4955-a137-6cbbe44c9437/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/acf378d1-fb66-410c-88f8-9794027a5cfb/UFT-One-Certified-Professional.png" alt="power bi" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/7cd68151-60e0-4fcd-b202-25fef4be00af/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/0ab77af8-fa46-47d7-bb20-861448f9c499/UFT-One-Tester-Specialist.png" alt="power bi" width="150"/>
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/5B1959ECD5407C03?sharingId=F7A505D7CE635680" target="_blank">
+    <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" alt="aws" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/af2cbe11-7a70-49cd-8bf0-d76ef26bd65f/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="power bi" width="150"/>
@@ -98,14 +107,8 @@ AWS
 <a href="https://www.credly.com/badges/a2bb5a8d-cfe7-4cc5-bb2d-406780f99279/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png" alt="python" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/470746ff-b66a-4cde-b568-42e344d37e94/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="python" width="150"/>
-</a>
 <a href="https://www.credly.com/badges/92c3aeff-9784-4560-9c4b-75804aa6ec78/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="python" width="150"/>
-</a>
-<a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/760a121b-2642-434a-87f9-341fca10192b/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/faf174da-88b2-48f3-83a1-f016f97132cc/image.png" alt="azure" width="150"/>
