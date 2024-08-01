@@ -39,6 +39,17 @@
 <a href="https://www.credly.com/badges/e9815697-e3f4-4056-8ed1-98d7ca6ee1fd/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="java" width="150"/>
 </a>
+<a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
+    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/6658b32c-ddf5-4c52-ac5b-03e7af939a95/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="java" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
+    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
+</a>
+
+
 
 <a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
     <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
@@ -51,12 +62,6 @@
 </a>
 <a href="https://www.credly.com/badges/c019816c-4e12-49db-8d7a-82db968e9699/public_url" target="_blank">
     <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="kubernetes administrator" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
-    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
-    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
