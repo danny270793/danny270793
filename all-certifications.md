@@ -2,6 +2,9 @@
 
 **Deployment**
 
+<a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
+    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
     <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
 </a>
@@ -14,6 +17,9 @@ AWS
 
 **Development**
 
+<a href="https://www.credly.com/badges/18bf549c-39ae-43b4-830b-eb2a241f9835/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="azure" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/3e9780b1-9544-4b8c-834a-87be9e84d24f/public_url" target="_blank">
     <img src="https://images.credly.com/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" alt="python" width="150"/>
 </a>
@@ -62,14 +68,8 @@ AWS
 <a href="https://www.credly.com/badges/760a121b-2642-434a-87f9-341fca10192b/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/faf174da-88b2-48f3-83a1-f016f97132cc/image.png" alt="azure" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/18bf549c-39ae-43b4-830b-eb2a241f9835/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="azure" width="150"/>
-</a>
 <a href="https://www.credly.com/badges/e9815697-e3f4-4056-8ed1-98d7ca6ee1fd/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="java" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
-    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/6658b32c-ddf5-4c52-ac5b-03e7af939a95/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="java" width="150"/>
