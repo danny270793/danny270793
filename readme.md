@@ -5,6 +5,7 @@ I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform,
 My previous experience allows me to understand and anticipate challenges, as well as propose solutions that add value to the business and ensure return on investment.
 
 ## Certifications
+
 <a href="https://github.com/danny270793/danny270793/blob/main/all-certifications.md" style="float: right; margin-left: 10px;">
     See more
 </a>
