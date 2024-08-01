@@ -5,17 +5,17 @@
 <a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
     <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
-    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
-</a>
 <a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
 </a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/1A7FBCA0D918570C?sharingId=F7A505D7CE635680" target="_blank">
-    <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="data engineer" width="150"/>
+<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
+    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/46F92540CBDEC94B?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/twitter_thumb_201604_azure-database-administrator-associate-600x600.png" alt="data engineer" width="150"/>
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/1A7FBCA0D918570C?sharingId=F7A505D7CE635680" target="_blank">
+    <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="data engineer" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/af2cbe11-7a70-49cd-8bf0-d76ef26bd65f/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="power bi" width="150"/>
