@@ -4,11 +4,7 @@ Senior Full Stack Developer with almost 10 years of experience implementing solu
 I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform, Java, Python, UiPath that guarantee my knowledge
 My previous experience allows me to understand and anticipate challenges, as well as propose solutions that add value to the business and ensure return on investment.
 
-## Certifications
-
-<div style="text-align: right;">
-    <a href="https://github.com/danny270793/danny270793/blob/main/all-certifications.md">See more</a>
-</div>
+## Certifications ([see all](https://github.com/danny270793/danny270793/blob/main/all-certifications.md))
 
 <a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
     <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
