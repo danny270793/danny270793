@@ -2,6 +2,9 @@
 
 **Data**
 
+<a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
+</a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/1A7FBCA0D918570C?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="data engineer" width="150"/>
 </a>
@@ -71,9 +74,6 @@ AWS
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/5B1959ECD5407C03?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" alt="aws" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/4cb7a802-a3c8-4c76-aea0-7f67d9338092/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="azure" width="150"/>
-</a>
 <a href="https://www.credly.com/badges/760a121b-2642-434a-87f9-341fca10192b/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/faf174da-88b2-48f3-83a1-f016f97132cc/image.png" alt="azure" width="150"/>
 </a>
@@ -82,9 +82,6 @@ AWS
 </a>
 <a href="https://www.credly.com/badges/6658b32c-ddf5-4c52-ac5b-03e7af939a95/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png" alt="java" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/380dc1da-b794-4044-97cd-d408ee1015a6/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="power bi" width="150"/>
