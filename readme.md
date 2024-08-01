@@ -45,6 +45,9 @@ My previous experience allows me to understand and anticipate challenges, as wel
 <a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
     <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
 </a>
+<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
+    <img src="https://www.onetrust.com/content/dam/onetrust/brand/content/graphic/certification/OT-circle-hero-certification-consent-expert-record-integration-management.png" alt="aws" width="150"/>
+</a>
 
 ## Technology stack
 
