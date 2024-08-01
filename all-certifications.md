@@ -56,6 +56,9 @@ AWS
 
 **Automation**
 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/B30FF7171DB974DE?sharingId=F7A505D7CE635680" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="devops" width="150"/>
+</a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/95FAF1625D78D34A?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/b33f211e-ba94-4cbb-842c-8502c82c191a/image.png" alt="power automate" width="150"/>
 </a>
@@ -67,9 +70,6 @@ AWS
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/5B1959ECD5407C03?sharingId=F7A505D7CE635680" target="_blank">
     <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" alt="aws" width="150"/>
-</a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/danny270793/B30FF7171DB974DE?sharingId=F7A505D7CE635680" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="devops" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/4cb7a802-a3c8-4c76-aea0-7f67d9338092/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="azure" width="150"/>
