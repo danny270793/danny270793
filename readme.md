@@ -1,6 +1,7 @@
 ## 💫 About me
 
 Senior Full Stack Developer with almost 10 years of experience implementing solutions for digital transformation in the cloud (Azure, AWS), developing cross-platform mobile applications (Flutter, React Native) as well as deploying web applications based on microservices (Java, .Net, Python)
+
 I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform, Java, Python, UiPath that guarantee my knowledge
 My previous experience allows me to understand and anticipate challenges, as well as propose solutions that add value to the business and ensure return on investment.
 
