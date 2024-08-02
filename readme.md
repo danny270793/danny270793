@@ -1,10 +1,10 @@
-# About me
+# 💫 About Me :
 
 Senior Full Stack Developer with almost 10 years of experience implementing solutions for digital transformation in the cloud (Azure, AWS), developing cross-platform mobile applications (Flutter, React Native) as well as deploying web applications based on microservices (Java, .Net, Python)
 I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform, Java, Python, UiPath that guarantee my knowledge
 My previous experience allows me to understand and anticipate challenges, as well as propose solutions that add value to the business and ensure return on investment.
 
-## Certifications ([see all](https://github.com/danny270793/danny270793/blob/main/all-certifications.md))
+## 🏆 Certifications ([see all](https://github.com/danny270793/danny270793/blob/main/all-certifications.md))
 
 <a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
     <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
@@ -49,7 +49,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
     <img src="https://www.onetrust.com/content/dam/onetrust/brand/content/graphic/certification/OT-circle-hero-certification-consent-expert-record-integration-management.png" alt="aws" width="150" height="150"/>
 </a>
 
-## Technology stack
+## 💻 Technology stack
 
 **Mobile development**
 
@@ -58,6 +58,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Web development**
 
@@ -70,6 +71,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 **CI Tools**
 
@@ -82,6 +84,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
@@ -93,6 +96,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Databases**
@@ -112,14 +116,22 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-## My github stats
+**Microcontrollers**
+
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+## 📊 My github stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=dark)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danny270793&theme=github-compact)
 
-## Follow me
+## 🌐 Follow me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/danny270793/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny270793)
+
+---
+[![](https://visitcount.itsvg.in/api?id=danny270793&icon=0&color=0)](https://visitcount.itsvg.in)
