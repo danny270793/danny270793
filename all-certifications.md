@@ -98,7 +98,7 @@ AWS
 
 **IOT**
 
-<a href="https://www.onetrust.com/certifications/consent-record-integration-and-management-certification/" target="_blank">
+<a href="https://certifications-assets-cf.arduino.cc/certificates/a8d0ed84-3a1c-4b71-9985-c44486ac0e28.pdf" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
 </a>
 
