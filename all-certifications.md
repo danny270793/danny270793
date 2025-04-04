@@ -45,7 +45,7 @@
     <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
-    <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
+    <img src="https://raw.githubusercontent.com/danny270793/danny270793.github.io/refs/heads/master/certifications/20220807%20-%20Certified%20Kubernetes%20Application%20Developer.png" alt="kubernetes developer" width="150"/>
 </a>
 <!--
 AWS
