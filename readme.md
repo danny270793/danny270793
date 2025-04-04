@@ -17,7 +17,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
     <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
-    <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="kubernetes developer" width="150"/>
+    <img src="https://raw.githubusercontent.com/danny270793/danny270793/refs/heads/main/images/20220807%20-%20Certified%20Kubernetes%20Application%20Developer.png" alt="kubernetes developer" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/c019816c-4e12-49db-8d7a-82db968e9699/public_url" target="_blank">
     <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="kubernetes administrator" width="150"/>
