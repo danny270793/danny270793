@@ -136,7 +136,6 @@ My previous experience allows me to understand and anticipate challenges, as wel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake,css,html,blade,c%2B%2B&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=dark)
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danny270793&theme=github-compact)
 
 ## 🌐 Follow me:
 
