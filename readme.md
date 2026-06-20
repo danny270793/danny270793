@@ -74,7 +74,7 @@ My previous experience allows me to understand and anticipate challenges, as wel
 **Mobile development**
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -94,29 +94,32 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/nodejs-%235FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**CI Tools**
+**CI/CD**
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Azure](https://img.shields.io/badge/azure_devops-%230072C6.svg?style=for-the-badge&logo=azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/azure_devops-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Argo](https://img.shields.io/badge/argo-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+![Portainer](https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
 
 **Deployments**
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAsMCwyNTYsMjU2Ij4KPGRlZnM+PGxpbmVhckdyYWRpZW50IHgxPSIyMS43NTQ2OSIgeTE9IjguNjY4MjUiIHgyPSIxMC4wMTQwNiIgeTI9IjQzLjM1MjYyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNvbG9yLTFfVkxLYWZPa2szc0JYX2dyMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmZmZmIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmZmZmIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgeDE9IjI1LjQyMTg4IiB5MT0iMjQuODMwNzUiIHgyPSIyMi43MDYyNSIgeTI9IjI1Ljc0OTUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0iY29sb3ItMl9WTEthZk9razNzQlhfZ3IyIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC4zMDE5NiI+PC9zdG9wPjxzdG9wIG9mZnNldD0iMC4wNzEiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC4yIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIwLjMyMSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIgc3RvcC1vcGFjaXR5PSIwLjEwMTk2Ij48L3N0b3A+PHN0b3Agb2Zmc2V0PSIwLjYyMyIgc3RvcC1jb2xvcj0iIzAwMDAwMCIgc3RvcC1vcGFjaXR5PSIwLjA1MDk4Ij48L3N0b3A+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDAwMDAwIiBzdG9wLW9wYWNpdHk9IjAiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCB4MT0iMjQuMDEyNSIgeTE9IjcuNjI0NSIgeDI9IjM2LjkiIHkyPSI0MS45NjA0NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGlkPSJjb2xvci0zX1ZMS2FmT2trM3NCWF9ncjMiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmZmZmZiI+PC9zdG9wPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1kYXNoYXJyYXk9IiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjAiIGZvbnQtZmFtaWx5PSJub25lIiBmb250LXdlaWdodD0ibm9uZSIgZm9udC1zaXplPSJub25lIiB0ZXh0LWFuY2hvcj0ibm9uZSIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxnIHRyYW5zZm9ybT0ic2NhbGUoNS4zMzMzMyw1LjMzMzMzKSI+PHBhdGggZD0iTTE3LjYzNCw2aDExLjMwNWwtMTEuNzM2LDM0Ljc3M2MtMC4yNDcsMC43MzMgLTAuOTM0LDEuMjI2IC0xLjcwOCwxLjIyNmgtOC43OThjLTAuOTk0LDAgLTEuOCwtMC44MDYgLTEuOCwtMS44YzAsLTAuMTk2IDAuMDMyLC0wLjM5IDAuMDk0LC0wLjU3NmwxMC45MzUsLTMyLjM5NmMwLjI0NywtMC43MzMgMC45MzQsLTEuMjI3IDEuNzA4LC0xLjIyN3oiIGZpbGw9InVybCgjY29sb3ItMV9WTEthZk9razNzQlhfZ3IxKSI+PC9wYXRoPjxwYXRoIGQ9Ik0zNC4wNjIsMjkuMzI0aC0xNy45MjdjLTAuNDU4LC0wLjAwMSAtMC44MywwLjM3MSAtMC44MzEsMC44MjljMCwwLjIzMSAwLjA5NSwwLjQ1MSAwLjI2NCwwLjYwOGwxMS41MiwxMC43NTJjMC4zMzUsMC4zMTMgMC43NzcsMC40ODcgMS4yMzYsMC40ODdoMTAuMTUxeiIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjxwYXRoIGQ9Ik0xNy42MzQsNmMtMC43ODMsLTAuMDAzIC0xLjQ3NiwwLjUwNCAtMS43MTIsMS4yNWwtMTAuOTE3LDMyLjM0NWMtMC4zMzUsMC45MzQgMC4xNTEsMS45NjQgMS4wODUsMi4yOTljMC4xOTYsMC4wNyAwLjQwMywwLjEwNiAwLjYxMiwwLjEwNmg5LjAyNmMwLjY4NCwtMC4xMjIgMS4yNSwtMC42MDMgMS40ODEsLTEuMjU5bDIuMTc3LC02LjQxNmw3Ljc3Niw3LjI1M2MwLjMyNiwwLjI3IDAuNzM1LDAuNDE5IDEuMTU4LDAuNDIyaDEwLjExNGwtNC40MzYsLTEyLjY3NmwtMTIuOTMxLDAuMDAzbDcuOTEzLC0yMy4zMjd6IiBmaWxsPSJ1cmwoI2NvbG9yLTJfVkxLYWZPa2szc0JYX2dyMikiPjwvcGF0aD48cGF0aCBkPSJNMzIuMDc0LDcuMjI1Yy0wLjI0NywtMC43MzIgLTAuOTMzLC0xLjIyNSAtMS43MDYsLTEuMjI1aC0xMi42YzAuNzcyLDAgMS40NTksMC40OTMgMS43MDUsMS4yMjRsMTAuOTM1LDMyLjM5OWMwLjMxOCwwLjk0MiAtMC4xODgsMS45NjMgLTEuMTMsMi4yODFjLTAuMTg1LDAuMDY0IC0wLjM3OSwwLjA5NiAtMC41NzUsMC4wOTZoMTIuNmMwLjk5NCwwIDEuOCwtMC44MDYgMS44LC0xLjgwMWMwLC0wLjE5NiAtMC4wMzIsLTAuMzkgLTAuMDk1LC0wLjU3NXoiIGZpbGw9InVybCgjY29sb3ItM19WTEthZk9razNzQlhfZ3IzKSI+PC9wYXRoPjwvZz48L2c+Cjwvc3ZnPg==&style=for-the-badge)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 **Monitoring**
@@ -124,11 +127,16 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Power Bi](https://img.shields.io/badge/power_bi-000000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCI+CjxwYXRoIGZpbGw9IiNlZGE1MDMiIGQ9Ik0zOCw0NEgyNmMtMC41NTIsMC0xLTAuNDQ4LTEtMVY1YzAtMC41NTIsMC40NDgtMSwxLTFoMTJjMC41NTIsMCwxLDAuNDQ4LDEsMXYzOAlDMzksNDMuNTUyLDM4LjU1Miw0NCwzOCw0NHoiPjwvcGF0aD48cGF0aCBmaWxsPSIjZmZjYTI4IiBkPSJNMzAsNDRIMThjLTAuNTUyLDAtMS0wLjQ0OC0xLTFWMTVjMC0wLjU1MiwwLjQ0OC0xLDEtMWgxMmMwLjU1MiwwLDEsMC40NDgsMSwxdjI4CUMzMSw0My41NTIsMzAuNTUyLDQ0LDMwLDQ0eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmUwODIiIGQ9Ik0yMiw0NEgxMGMtMC41NTIsMC0xLTAuNDQ4LTEtMVYyNWMwLTAuNTUyLDAuNDQ4LTEsMS0xaDEyYzAuNTUyLDAsMSwwLjQ0OCwxLDF2MTgJQzIzLDQzLjU1MiwyMi41NTIsNDQsMjIsNDR6Ij48L3BhdGg+Cjwvc3ZnPg==&style=for-the-badge&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Rollbar](https://img.shields.io/badge/rollbar-%23E35E4F.svg?style=for-the-badge&logo=rollbar&logoColor=white)
+![Coralogix](https://img.shields.io/badge/coralogix-%230047AB.svg?style=for-the-badge&logo=coralogix&logoColor=white)
 
-**Databases**
+**Storage**
 
-![MicrosoftSQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -136,14 +144,15 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**Big Data computing**
+**Big Data**
 
-![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Nifi](https://img.shields.io/badge/Nifi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=white)
-![Apache Hbase](https://img.shields.io/badge/Hbase-BE160C?style=for-the-badge&logo=apachehbase&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Nifi](https://img.shields.io/badge/Nifi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=white)
+![HBase](https://img.shields.io/badge/Hbase-BE160C?style=for-the-badge&logo=apachehbase&logoColor=white)
 
 **Microcontrollers**
 
