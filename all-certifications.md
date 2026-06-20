@@ -1,7 +1,5 @@
 # All certifications
 
-> 46 certifications across 9 categories
-
 ## Development
 
 <table>
