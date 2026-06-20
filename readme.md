@@ -2,8 +2,13 @@
 
 Senior Full Stack Developer with almost 15 years of experience implementing solutions for digital transformation in the cloud (Azure, AWS), developing cross-platform mobile applications (Flutter, React Native) as well as deploying web applications based on microservices (Java, .Net, Python)
 
-I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform, Java, Python, UiPath that guarantee my knowledge
+I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform, Java, Python, UiPath that guarantee my knowledge.
 My previous experience allows me to understand and anticipate challenges, as well as propose solutions that add value to the business and ensure return on investment.
+
+- 🔭 Building my personal portfolio at [danny270793.github.io](https://danny270793.github.io)
+- 📜 Continuously expanding certifications in Cloud, DevOps, and Data Privacy
+- 🌱 Currently exploring Rust, Temporal workflows, and AI integrations
+- 🤝 Open to collaborating on open source tools, DevOps automation, and cloud solutions
 
 ## 🏆 Certifications ([see all x46](https://github.com/danny270793/danny270793/blob/main/all-certifications.md))
 
@@ -160,10 +165,56 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![NodeRED](https://img.shields.io/badge/nodered-%238F0000.svg?style=for-the-badge&logo=nodered&logoColor=white)
 
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/danny270793/danny270793.github.io-dev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=danny270793.github.io-dev&theme=dark"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/danny270793/DannyScript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=DannyScript&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/danny270793/GitlabToGithubCommitHistorySync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=GitlabToGithubCommitHistorySync&theme=dark"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/danny270793/RustHotReloader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=RustHotReloader&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/danny270793/TemporalLab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=TemporalLab&theme=dark"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/danny270793/KeycloakifyLab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=KeycloakifyLab&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📊 My github stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=danny270793&theme=darkhub&row=1&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=danny270793&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake,css,html,js,blade,c%2B%2B&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=dark)
+
+![Snake animation](https://raw.githubusercontent.com/danny270793/danny270793/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Follow me:
 
