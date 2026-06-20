@@ -5,50 +5,69 @@ Senior Full Stack Developer with almost 15 years of experience implementing solu
 I have a wide range of certifications in Cloudera, Kubernetes, Azure, Terraform, Java, Python, UiPath that guarantee my knowledge
 My previous experience allows me to understand and anticipate challenges, as well as propose solutions that add value to the business and ensure return on investment.
 
-## 🏆 Certifications ([see all x42](https://github.com/danny270793/danny270793/blob/main/all-certifications.md))
+## 🏆 Certifications ([see all x46](https://github.com/danny270793/danny270793/blob/main/all-certifications.md))
 
-<a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
-    <img src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="java" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/3e9780b1-9544-4b8c-834a-87be9e84d24f/public_url" target="_blank">
-    <img src="https://images.credly.com/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" alt="python" width="150"/>
-</a>
-<a href="https://www.apollographql.com/tutorials/certifications/ec329965-9334-4384-a5f7-cb348464c6f9" target="_blank">
-    <img src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" alt="aws" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/danny270793/danny270793/refs/heads/main/images/20220807%20-%20Certified%20Kubernetes%20Application%20Developer.png" alt="kubernetes developer" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/c019816c-4e12-49db-8d7a-82db968e9699/public_url" target="_blank">
-    <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="kubernetes administrator" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
-    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="terraform" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/fd099b10-920a-4092-8b5a-f045f1443cb5/public_url" target="_blank">
-    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power bi" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/690852a9-8892-4d41-985c-fa9c42e61516/public_url" target="_blank">
-    <img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="azure" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/a8fd23c4-72d4-4fd3-85fd-f82584b764b7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png" alt="azure" width="150"/>
-</a>
-<a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws" width="150"/>
-</a>
-<a href="https://academy.uipath.com/certification" target="_blank">
-    <img src="https://staticcontent.cdn.contentraven.com/crcloud/pages/11218/1/en-us/images/ADAssoc_badge.png" alt="aws" width="150"/>
-</a>
-<a href="https://certifications.arduino.cc/certificate/a8d0ed84-3a1c-4b71-9985-c44486ac0e28" target="_blank">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="aws" width="150"/>
-</a>
-<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
-    <img src="https://divergento.it/img/CCA_Spark.jpg" alt="aws" width="150"/>
-</a>
-<a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
-    <img src="https://www.onetrust.com/content/dam/onetrust/brand/content/graphic/certification/OT-circle-hero-certification-consent-expert-record-integration-management.png" alt="aws" width="150" height="150"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/449fcbf9-16c3-4949-a0cb-18d35278a845/public_url" target="_blank">
+        <img src="images/certifications/20210426%20-%20Oracle%20Certified%20Professional%20Java%20SE%2011%20Developer.png" width="120" alt="Oracle Certified Professional Java SE 11 Developer"/>
+      </a><br/>
+      <sub><b>Oracle Java SE 11</b></sub><br/><sub><code>1Z0-816</code></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/3e9780b1-9544-4b8c-834a-87be9e84d24f/public_url" target="_blank">
+        <img src="images/certifications/20210523%20-%20Certified%20Entry-Level%20Python%20Programmer.png" width="120" alt="Certified Entry-Level Python Programmer"/>
+      </a><br/>
+      <sub><b>Python Programmer</b></sub><br/><sub><code>PCEP</code></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/dbae9536-2517-44fa-9e06-5160f6619d25/public_url" target="_blank">
+        <img src="images/certifications/20220601%20-%20Certified%20Kubernetes%20Administrator.png" width="120" alt="Certified Kubernetes Administrator"/>
+      </a><br/>
+      <sub><b>Kubernetes Admin</b></sub><br/><sub><code>CKA</code></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/6042cc38-1015-4c75-8260-a2a1d100bd00/public_url" target="_blank">
+        <img src="images/certifications/20221218%20-%20Terraform%20associate.png" width="120" alt="Terraform Associate"/>
+      </a><br/>
+      <sub><b>Terraform Associate</b></sub><br/><sub><code>HCTAO-002</code></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://learn.microsoft.com/en-gb/users/danny270793/credentials/d8735ff447623533" target="_blank">
+        <img src="images/certifications/20220404%20-%20Power%20BI%20Data%20Analyst%20Associate.png" width="120" alt="Power BI Data Analyst Associate"/>
+      </a><br/>
+      <sub><b>Power BI Analyst</b></sub><br/><sub><code>PL-300</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://learn.microsoft.com/en-gb/users/danny270793/credentials/865a02ffeb837b26" target="_blank">
+        <img src="images/certifications/20230604%20-%20Azure%20Solutions%20Architect%20Expert.png" width="120" alt="Azure Solutions Architect Expert"/>
+      </a><br/>
+      <sub><b>Azure Architect</b></sub><br/><sub><code>AZ-305</code></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.credly.com/badges/39d828a4-c03a-4c2c-9589-623dd662a115/public_url" target="_blank">
+        <img src="images/certifications/20240504%20-%20AWS%20Cloud%20Practitioner.png" width="120" alt="AWS Cloud Practitioner"/>
+      </a><br/>
+      <sub><b>AWS Practitioner</b></sub><br/><sub><code>CLF-C02</code></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://academy.uipath.com/certification" target="_blank">
+        <img src="images/certifications/20190607%20-%20RPA%20Developer%20Certificate%20of%20completion.png" width="120" alt="RPA Developer Certificate of completion"/>
+      </a><br/>
+      <sub><b>UiPath RPA Developer</b></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://www.cloudera.com/services-and-support/training/certification/cca-spark.html" target="_blank">
+        <img src="images/certifications/20201108%20-%20CCA%20Spark%20And%20Hadoop%20Developer.png" width="120" alt="CCA Spark and Hadoop Developer"/>
+      </a><br/>
+      <sub><b>CCA Spark &amp; Hadoop</b></sub><br/><sub><code>CCA-175</code></sub>
+    </td>
+    <td/>
+  </tr>
+</table>
 
 ## 💻 Technology stack
 
