@@ -8,7 +8,6 @@ My previous experience allows me to understand and anticipate challenges, as wel
 - 🔭 Building my personal portfolio at [danny270793.github.io](https://danny270793.github.io)
 - 📜 Continuously expanding certifications in Cloud, DevOps, and Data Privacy
 - 🌱 Currently exploring Rust, Temporal workflows, and AI integrations
-- 🤝 Open to collaborating on open source tools, DevOps automation, and cloud solutions
 
 ## 🏆 Certifications ([see all x46](https://github.com/danny270793/danny270793/blob/main/all-certifications.md))
 
@@ -164,47 +163,6 @@ My previous experience allows me to understand and anticipate challenges, as wel
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![NodeRED](https://img.shields.io/badge/nodered-%238F0000.svg?style=for-the-badge&logo=nodered&logoColor=white)
-
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/danny270793/danny270793.github.io-dev">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=danny270793.github.io-dev&theme=dark"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/danny270793/DannyScript">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=DannyScript&theme=dark"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/danny270793/GitlabToGithubCommitHistorySync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=GitlabToGithubCommitHistorySync&theme=dark"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/danny270793/RustHotReloader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=RustHotReloader&theme=dark"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/danny270793/TemporalLab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=TemporalLab&theme=dark"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/danny270793/KeycloakifyLab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny270793&repo=KeycloakifyLab&theme=dark"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📊 My github stats
 
