@@ -166,8 +166,6 @@ My previous experience allows me to understand and anticipate challenges, as wel
 
 ## 📊 My github stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danny270793&theme=darkhub&row=1&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=danny270793&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake,css,html,js,blade,c%2B%2B&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=dark)
