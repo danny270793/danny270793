@@ -166,11 +166,8 @@ My previous experience allows me to understand and anticipate challenges, as wel
 
 ## 📊 My github stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=danny270793&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake,css,html,js,blade,c%2B%2B&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=danny270793&show_icons=true&theme=dark)
-
-![Snake animation](https://raw.githubusercontent.com/danny270793/danny270793/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Follow me:
 
