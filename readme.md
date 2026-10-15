@@ -92,29 +92,29 @@ I've spent almost 15 years delivering digital-transformation work: cloud platfor
   </tr>
 </table>
 
-<p align="right"><a href="all-certifications.md"><b>See all 46 certifications →</b></a></p>
+<p align="right"><a href="all-certifications.md"><b>See all 46 certifications by category →</b></a></p>
 
 ## 📦 Open source
 
 Packages I maintain on npm, pub.dev, crates.io, PyPI and Docker Hub.
 
-| Package | Registry | Description |
-|:--|:--|:--|
-| [`@danny270793/azureservicesclient`](https://www.npmjs.com/package/@danny270793/azureservicesclient) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | Connect to Azure resources (Synapse, Storage Accounts…) and pull metadata |
-| [`@danny270793/jmixclientv2`](https://www.npmjs.com/package/@danny270793/jmixclientv2) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | Client for the Jmix v2.x REST API |
-| [`@danny270793/jmixclientv1`](https://www.npmjs.com/package/@danny270793/jmixclientv1) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | Client for the Jmix v1.x REST API |
-| [`@danny270793/hotreloader`](https://www.npmjs.com/package/@danny270793/hotreloader) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | Re-runs a command whenever files in a folder change |
-| [`@danny270793/levenshtein`](https://www.npmjs.com/package/@danny270793/levenshtein) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | Levenshtein distance for fuzzy string matching |
-| [`@danny270793/tsframework`](https://www.npmjs.com/package/@danny270793/tsframework) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | Minimal REST framework built for teaching |
-| [`jmixclientv1`](https://pub.dev/packages/jmixclientv1) | ![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white) | Flutter client for the Jmix v1.x REST API |
-| [`code-metadata`](https://crates.io/crates/code-metadata) | ![crates.io](https://img.shields.io/badge/crates.io-000000?style=flat-square&logo=rust&logoColor=white) | Project metrics: files and lines per extension, average lines per file |
-| [`arguments-parser`](https://pypi.org/project/arguments-parser/) | ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white) | Command-line argument parser |
-| [`sqlserver`](https://hub.docker.com/r/danny27071993/sqlserver) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | SQL Server container that creates a database from a single parameter |
-| [`fake-http-server`](https://hub.docker.com/r/danny27071993/fake-http-server) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | HTTP server that echoes hostname and node name, for load-balancer testing |
-| [`terraform-azure`](https://hub.docker.com/r/danny27071993/terraform-azure) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | CI image with Terraform and Azure CLI |
-| [`ansible`](https://hub.docker.com/r/danny27071993/ansible) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | CI image with Ansible pre-installed |
-| [`ShiftRegister`](https://github.com/danny270793/ArduinoShiftRegister) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) | Write decimal numbers out over shift registers |
-| [`PortCom`](https://github.com/danny270793/MatlabPortCom) | ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logoColor=white) | Read and plot serial-port data in MATLAB |
+| Package | Registry | Downloads | Description |
+|:--|:--|:--|:--|
+| [`@danny270793/azureservicesclient`](https://www.npmjs.com/package/@danny270793/azureservicesclient) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![downloads](https://img.shields.io/npm/dt/%40danny270793%2Fazureservicesclient?style=flat-square&label=&color=555) | Connect to Azure resources (Synapse, Storage Accounts…) and pull metadata |
+| [`@danny270793/jmixclientv2`](https://www.npmjs.com/package/@danny270793/jmixclientv2) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![downloads](https://img.shields.io/npm/dt/%40danny270793%2Fjmixclientv2?style=flat-square&label=&color=555) | Client for the Jmix v2.x REST API |
+| [`@danny270793/jmixclientv1`](https://www.npmjs.com/package/@danny270793/jmixclientv1) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![downloads](https://img.shields.io/npm/dt/%40danny270793%2Fjmixclientv1?style=flat-square&label=&color=555) | Client for the Jmix v1.x REST API |
+| [`@danny270793/hotreloader`](https://www.npmjs.com/package/@danny270793/hotreloader) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![downloads](https://img.shields.io/npm/dt/%40danny270793%2Fhotreloader?style=flat-square&label=&color=555) | Re-runs a command whenever files in a folder change |
+| [`@danny270793/levenshtein`](https://www.npmjs.com/package/@danny270793/levenshtein) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![downloads](https://img.shields.io/npm/dt/%40danny270793%2Flevenshtein?style=flat-square&label=&color=555) | Levenshtein distance for fuzzy string matching |
+| [`@danny270793/tsframework`](https://www.npmjs.com/package/@danny270793/tsframework) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![downloads](https://img.shields.io/npm/dt/%40danny270793%2Ftsframework?style=flat-square&label=&color=555) | Minimal REST framework built for teaching |
+| [`jmixclientv1`](https://pub.dev/packages/jmixclientv1) | ![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white) | ![downloads](https://img.shields.io/pub/dm/jmixclientv1?style=flat-square&label=&color=555) | Flutter client for the Jmix v1.x REST API |
+| [`code-metadata`](https://crates.io/crates/code-metadata) | ![crates.io](https://img.shields.io/badge/crates.io-000000?style=flat-square&logo=rust&logoColor=white) | ![downloads](https://img.shields.io/crates/d/code-metadata?style=flat-square&label=&color=555) | Project metrics: files and lines per extension, average lines per file |
+| [`arguments-parser`](https://pypi.org/project/arguments-parser/) | ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white) | ![downloads](https://img.shields.io/pypi/dm/arguments-parser?style=flat-square&label=&color=555) | Command-line argument parser |
+| [`sqlserver`](https://hub.docker.com/r/danny27071993/sqlserver) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | ![downloads](https://img.shields.io/docker/pulls/danny27071993/sqlserver?style=flat-square&label=&color=555) | SQL Server container that creates a database from a single parameter |
+| [`fake-http-server`](https://hub.docker.com/r/danny27071993/fake-http-server) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | ![downloads](https://img.shields.io/docker/pulls/danny27071993/fake-http-server?style=flat-square&label=&color=555) | HTTP server that echoes hostname and node name, for load-balancer testing |
+| [`terraform-azure`](https://hub.docker.com/r/danny27071993/terraform-azure) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | ![downloads](https://img.shields.io/docker/pulls/danny27071993/terraform-azure?style=flat-square&label=&color=555) | CI image with Terraform and Azure CLI |
+| [`ansible`](https://hub.docker.com/r/danny27071993/ansible) | ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white) | ![downloads](https://img.shields.io/docker/pulls/danny27071993/ansible?style=flat-square&label=&color=555) | CI image with Ansible pre-installed |
+| [`ShiftRegister`](https://github.com/danny270793/ArduinoShiftRegister) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) | — | Write decimal numbers out over shift registers |
+| [`PortCom`](https://github.com/danny270793/MatlabPortCom) | ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logoColor=white) | — | Read and plot serial-port data in MATLAB |
 
 ## 🚀 Projects
 
@@ -156,12 +156,21 @@ Apps published on the stores or open-sourced on GitHub.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake,css,html,js,blade,c%2B%2B&theme=github_dark&hide_border=true" alt="Top languages"/>
 </div>
 
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danny270793&theme=github_dark" alt="Repos per language"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danny270793&theme=github_dark&utcOffset=-5" alt="Commits by hour"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://ghchart.rshah.org/0A66C2/danny270793" alt="Contribution chart"/>
+</div>
+
 ---
 
 <div align="center">
 
 **Let's build something together:** reach me on [LinkedIn](https://www.linkedin.com/in/danny270793) or through [my portfolio](https://danny270793.github.io).
 
-[![Profile views](https://visitcount.itsvg.in/api?id=danny270793&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=danny270793&style=flat-square&color=0A66C2&label=Profile+views)
 
 </div>
