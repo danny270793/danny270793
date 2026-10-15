@@ -156,21 +156,10 @@ Apps published on the stores or open-sourced on GitHub.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny270793&layout=compact&langs_count=8&hide=cmake,css,html,js,blade,c%2B%2B&theme=github_dark&hide_border=true" alt="Top languages"/>
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danny270793&theme=github_dark" alt="Repos per language"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danny270793&theme=github_dark&utcOffset=-5" alt="Commits by hour"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/0A66C2/danny270793" alt="Contribution chart"/>
-</div>
-
 ---
 
 <div align="center">
 
 **Let's build something together:** reach me on [LinkedIn](https://www.linkedin.com/in/danny270793) or through [my portfolio](https://danny270793.github.io).
-
-![Profile views](https://komarev.com/ghpvc/?username=danny270793&style=flat-square&color=0A66C2&label=Profile+views)
 
 </div>
